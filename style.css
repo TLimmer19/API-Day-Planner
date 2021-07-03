@@ -55,11 +55,7 @@ body {
     border-bottom-right-radius: 15px;
     background-color: #06aed5;
     color: white;
-  }
-  .saveBtn i:hover {
-    font-size: 20px;
-    transition: all 0.3s ease-in-out;
-  }
+  } 
   .fa-save
   {
     font-size: 30px;
